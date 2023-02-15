@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danilo Lora</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danselo" alt="danselo" /></a> </p>
-
 - 🌱 I’m currently learning **ESMASCRIPT 6+....**
 
 <h3 align="left">Connect with me:</h3>
